@@ -1,4 +1,11 @@
 body {
+  text-align: center;
+  color: white;
+  font-size: 20px;
   background: rgb(63, 94, 251);
-  background: linear-gradient(45deg, rgb(63, 94, 251) 0%, rgb(252, 70, 107) 100%);
+  background: linear-gradient(45deg, rgb(63, 94, 251) 0%, rgb(255, 55, 0) 100%);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+  width: 100vw;
 }/*# sourceMappingURL=style.css.map */
